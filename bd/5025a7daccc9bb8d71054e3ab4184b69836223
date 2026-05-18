@@ -1,0 +1,53 @@
+gradle/wrapper/gradle-wrapper.properties
+  s_6e1967c6c964c2::t_afdac4adddc041 3
+common/src/main/java/dev/norbiros/emojitype/mixin/ChatInputSuggestorAccessor.java
+  s_6e1967c6c964c2::t_527d3512dd4266 3-4,8,10-12
+common/src/main/java/dev/norbiros/emojitype/mixin/ChatInputSuggestorMixin.java
+  s_6e1967c6c964c2::t_527d3512dd4266 8-10,23,30,35,38,41,43,45,51-52,59,64,83
+common/src/main/java/dev/norbiros/emojitype/mixin/TextFieldWidgetMixin.java
+  s_6e1967c6c964c2::t_1a9d76e5bf1018 5-6,15,18,21,24,27,30-31,34,39,44-47,50-51
+build.gradle.kts
+  s_6e1967c6c964c2::t_e824a411a22ab9 3,21,26-27
+common/src/main/java/dev/norbiros/emojitype/EmojiType.java
+  s_6e1967c6c964c2::t_d8be686f429c35 7,108
+gradle/libs.versions.toml
+  s_6e1967c6c964c2::t_e824a411a22ab9 5-6,9,11,21
+fabric/build.gradle.kts
+  s_6e1967c6c964c2::t_d8be686f429c35 8-15
+  s_6e1967c6c964c2::t_e824a411a22ab9 1-2,5-7,16-17,24,28-38
+  s_6e1967c6c964c2::t_1f3dc273cc1a50 22-23
+  s_6e1967c6c964c2::t_8158d25d240aa0 21
+common/src/main/java/dev/norbiros/emojitype/packs/PackType.java
+  s_6e1967c6c964c2::t_ca37a4a505eb5e 3,33-34
+fabric/src/main/java/dev/norbiros/emojitype/fabric/EmojiTypeImpl.java
+  s_6e1967c6c964c2::t_d8be686f429c35 11
+common/src/main/java/dev/norbiros/emojitype/config/ui/EmojiTypeConfig.java
+  s_6e1967c6c964c2::t_02e7023e29094b 7-11,15-16,18-19,21-22,32,34-38,45,49-50,53-55
+  s_6e1967c6c964c2::t_b0049245ba6543 6,40-44
+common/src/main/java/dev/norbiros/emojitype/mixin/SelectionManagerMixin.java
+  s_6e1967c6c964c2::t_1a9d76e5bf1018 5,17,21,24,28,32,36,41-44,47
+gradle.properties
+  s_6e1967c6c964c2::t_e824a411a22ab9 2,4-5,8,11
+fabric/src/main/resources/emojitype.mixins.json
+  s_6e1967c6c964c2::t_0497405b8b0cad 5
+common/src/main/java/dev/norbiros/emojitype/mixin/SuggestionWindowMixin.java
+  s_6e1967c6c964c2::t_527d3512dd4266 6-7,17,22,25,29,31,33,36,39-41,45-47
+common/src/main/resources/emojitype-common.mixins.json
+  s_6e1967c6c964c2::t_0497405b8b0cad 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.9",
+  "base_commit_sha": "bd5025a7daccc9bb8d71054e3ab4184b69836223",
+  "prompts": {},
+  "sessions": {
+    "s_6e1967c6c964c2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e3d01-4d05-7260-be78-9bfa28e42788",
+        "model": "gpt-5.5"
+      },
+      "human_author": "the_jan_craft <jan.kramer@mizius.com>"
+    }
+  }
+}
