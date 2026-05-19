@@ -1,0 +1,19 @@
+common/src/main/java/dev/norbiros/emojitype/mixin/SelectionManagerMixin.java
+  s_edcf796f68c243::t_83a4bde01035ba 34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.9",
+  "base_commit_sha": "fd8a2442227cc09a41b0038cbc269992ac589155",
+  "prompts": {},
+  "sessions": {
+    "s_edcf796f68c243": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e4063-339f-7db3-b3ae-603c6fc87482",
+        "model": "gpt-5.5"
+      },
+      "human_author": "the_jan_craft <jan.kramer@mizius.com>"
+    }
+  }
+}
