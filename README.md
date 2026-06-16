@@ -14,7 +14,7 @@ word (e.g. `:skull:`).</h4>
     <img alt="Discord" src="https://img.shields.io/badge/the_jan_craft-the_jan_craft?style=flat-square&logo=discord&label=Discord&color=blue">
   </a>
 
-  <a href="https://github.com/pxlarified/emojitype?tab=GPL-3.0-1-ov-file">
+  <a href="https://modrinth.com/mod/emoji-type-recontinued">
     <img alt="Modrinth Version" src="https://img.shields.io/modrinth/v/emoji-type-recontinued?style=flat-square">
   </a>
 
