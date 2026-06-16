@@ -2,7 +2,7 @@
 # https://linkie.shedaniel.me/dependencies
 
 [versions]
-minecraft = "26.1.2"
+minecraft = "26.2"
 fabric-loader = "0.19.2"
 neoforge = "21.10.55-beta"
 neoforge-yarn-mappings-patch = "1.21+build.6"
