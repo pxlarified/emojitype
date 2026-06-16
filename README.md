@@ -15,8 +15,13 @@ word (e.g. `:skull:`).</h4>
   </a>
 
   <a href="https://github.com/pxlarified/emojitype?tab=GPL-3.0-1-ov-file">
+    <img alt="Modrinth Version" src="https://img.shields.io/modrinth/v/emoji-type-recontinued?style=flat-square">
+  </a>
+
+  <a href="https://github.com/pxlarified/emojitype?tab=GPL-3.0-1-ov-file">
     <img alt="License" src="https://img.shields.io/badge/License-GPL-red.svg?style=flat-square">
   </a>
+
 </p>
 
 ## Overview
