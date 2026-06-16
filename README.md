@@ -10,11 +10,11 @@
 word (e.g. `:skull:`).</h4>
 
 <p align="center">
-  <a href="https://discord.gg/N7AJFJTgBS">
+  <a href="https://discord.com/users/1006527246510604368">
     <img alt="Discord" src="https://img.shields.io/badge/the_jan_craft-the_jan_craft?style=flat-square&logo=discord&label=Discord&color=blue">
   </a>
 
-  <a href="https://bstats.org/plugin/bukkit/Oraxen">
+  <a href="https://github.com/pxlarified/emojitype?tab=GPL-3.0-1-ov-file">
     <img alt="License" src="https://img.shields.io/badge/License-GPL-red.svg?style=flat-square">
   </a>
 </p>
